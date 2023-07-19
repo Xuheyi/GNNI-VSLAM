@@ -6,11 +6,12 @@ Targeting conventional visual SLAM methods, which are prone to feature point ext
 ## Example
 GNNI-VSLAM Real-time mapping with sparse texture sences and large viewing angle motion:
 
-GNNI-VSLAM Real-time mapping with large viewing angle motion:
+large viewing angle motion:
 
 ![image](https://github.com/Xuheyi/GNNI-VSLAM/blob/main/1.gif)
 
-GNNI-VSLAM Real-time mapping with sparse texture and large viewing angle motion:
+
+sparse texture sences and large viewing angle motion:
 
 ![image](https://github.com/Xuheyi/GNNI-VSLAM/blob/main/2.gif)
 
