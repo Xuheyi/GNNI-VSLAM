@@ -8,11 +8,11 @@ GNNI-VSLAM Real-time mapping with sparse texture sences and large viewing angle 
 
 large viewing angle:
 
-![](GNNI-VSLAM Real-time mapping with large viewing angle motion.gif)
+![image](https://github.com/Xuheyi/GNNI-VSLAM/blob/main/1.gif)
 
 sparse texture sences:
 
-![](GNNI-VSLAM Real-time mapping with sparse texture and large viewing angle motion.gif)
+![image](https://github.com/Xuheyi/GNNI-VSLAM/blob/main/2.gif)
 
 # Dependencies
 
