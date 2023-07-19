@@ -3,6 +3,9 @@
 ## Introduction
 Targeting conventional visual SLAM methods, which are prone to feature point extraction difficulties and feature mismatching when encounter sparse texture scenes or large viewing angle motion. we propose GNNI-VSLAM, the algorithm integrates feature extraction and matching map neural networks with the back-end of the [ORB-SLAM2] system to build an IGNN-VSLAM system with high-precision positioning and high-accuracy map building for mobile robots under sparse texture scenes or large viewing angle motion.
 
+Figure 1. The structure of the IGNN-VSLAM algorithm.
+![image](https://github.com/Xuheyi/GNNI-VSLAM/blob/main/Images/Figure1.png)
+
 ## Example
 GNNI-VSLAM Real-time mapping with sparse texture sences and large viewing angle motion:
 
